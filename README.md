@@ -1,4 +1,4 @@
-E-Commerce Django Project: Feature Documentation
+		E-Commerce Django Project: Feature Documentation
  Introduction 
 Welcome to the documentation for our fourth Django project, an advanced e-commerce platform designed to elevate the user experience and ensure secure transactions. This document provides an overview of the key features implemented in the system.
 
